@@ -1,0 +1,8 @@
+numpy
+scipy
+jupyter
+matplotlib
+sentinelsat
+Image
+scikit-image
+scikit-learn
